@@ -1,0 +1,996 @@
+{
+    "name": "Cascavel",
+    "meteogram": "http://apiadvisor.climatempo.com.br/api/v1/meteogram/locale/6713?token=",
+    "country": "BR  ",
+    "state": "PR",
+    "data": [
+        {
+            "temperature": {
+                "min": 17,
+                "max": 27,
+                "morning": {
+                    "max": 21,
+                    "min": 17
+                },
+                "afternoon": {
+                    "max": 26,
+                    "min": 22
+                },
+                "night": {
+                    "max": 27,
+                    "min": 22
+                },
+                "dawn": {
+                    "max": 21,
+                    "min": 18
+                }
+            },
+            "sun": {
+                "sunset": "19:27:00",
+                "sunrise": "06:04:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol com algumas nuvens",
+                        "reduced": "Sol com algumas nuvens. N\u00e3o chove.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": "Mostly sunny.",
+                    "es": "Sol con algunas nubes. No llueve.",
+                    "pt": "Sol com algumas nuvens"
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "2n",
+                    "afternoon": "2",
+                    "day": "2",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 15.3
+            },
+            "rain": {
+                "precipitation": 0,
+                "probability": 0
+            },
+            "humidity": {
+                "min": 48,
+                "max": 89,
+                "morning": {
+                    "max": 88,
+                    "min": 63
+                },
+                "afternoon": {
+                    "max": 58,
+                    "min": 48
+                },
+                "night": {
+                    "max": 67,
+                    "min": 51
+                },
+                "dawn": {
+                    "max": 86,
+                    "min": 83
+                }
+            },
+            "thermal_sensation": {
+                "max": 29,
+                "min": 17
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0
+            },
+            "date": "2020-01-24",
+            "date_br": "24/01/2020",
+            "wind": {
+                "velocity_avg": 14,
+                "direction_degrees": 134,
+                "direction": "ESE",
+                "dawn": {
+                    "direction_degrees": 109,
+                    "velocity_avg": 15,
+                    "direction": "ESE",
+                    "gust_max": 33,
+                    "velocity_max": 18
+                },
+                "morning": {
+                    "direction_degrees": 105,
+                    "velocity_avg": 16,
+                    "direction": "E",
+                    "gust_max": 31,
+                    "velocity_max": 19
+                },
+                "velocity_min": 9,
+                "afternoon": {
+                    "direction_degrees": 148,
+                    "velocity_avg": 11,
+                    "direction": "SSE",
+                    "gust_max": 17,
+                    "velocity_max": 13
+                },
+                "night": {
+                    "direction_degrees": 189,
+                    "velocity_avg": 14,
+                    "direction": "S",
+                    "gust_max": 25,
+                    "velocity_max": 16
+                },
+                "velocity_max": 19,
+                "gust_max": 33
+            }
+        },
+        {
+            "temperature": {
+                "min": 17,
+                "max": 28,
+                "morning": {
+                    "max": 22,
+                    "min": 17
+                },
+                "afternoon": {
+                    "max": 28,
+                    "min": 23
+                },
+                "night": {
+                    "max": 28,
+                    "min": 22
+                },
+                "dawn": {
+                    "max": 21,
+                    "min": 18
+                }
+            },
+            "sun": {
+                "sunset": "19:26:00",
+                "sunrise": "06:05:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol com algumas nuvens",
+                        "reduced": "Sol com algumas nuvens. N\u00e3o chove.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": "Mostly sunny.",
+                    "es": "Sol con algunas nubes. No llueve.",
+                    "pt": "Sol com algumas nuvens"
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "2n",
+                    "afternoon": "2",
+                    "day": "2",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 15.3
+            },
+            "rain": {
+                "precipitation": 0,
+                "probability": 0
+            },
+            "humidity": {
+                "min": 48,
+                "max": 83,
+                "morning": {
+                    "max": 83,
+                    "min": 59
+                },
+                "afternoon": {
+                    "max": 55,
+                    "min": 48
+                },
+                "night": {
+                    "max": 68,
+                    "min": 50
+                },
+                "dawn": {
+                    "max": 80,
+                    "min": 70
+                }
+            },
+            "thermal_sensation": {
+                "max": 31,
+                "min": 17
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0
+            },
+            "date": "2020-01-25",
+            "date_br": "25/01/2020",
+            "wind": {
+                "velocity_avg": 13,
+                "direction_degrees": 24,
+                "direction": "NNE",
+                "dawn": {
+                    "direction_degrees": 162,
+                    "velocity_avg": 13,
+                    "direction": "SE",
+                    "gust_max": 32,
+                    "velocity_max": 14
+                },
+                "morning": {
+                    "direction_degrees": 76,
+                    "velocity_avg": 13,
+                    "direction": "NE",
+                    "gust_max": 27,
+                    "velocity_max": 16
+                },
+                "velocity_min": 8,
+                "afternoon": {
+                    "direction_degrees": 353,
+                    "velocity_avg": 16,
+                    "direction": "NNW",
+                    "gust_max": 21,
+                    "velocity_max": 17
+                },
+                "night": {
+                    "direction_degrees": 288,
+                    "velocity_avg": 10,
+                    "direction": "WNW",
+                    "gust_max": 17,
+                    "velocity_max": 14
+                },
+                "velocity_max": 17,
+                "gust_max": 32
+            }
+        },
+        {
+            "temperature": {
+                "min": 17,
+                "max": 30,
+                "morning": {
+                    "max": 21,
+                    "min": 17
+                },
+                "afternoon": {
+                    "max": 27,
+                    "min": 23
+                },
+                "night": {
+                    "max": 30,
+                    "min": 22
+                },
+                "dawn": {
+                    "max": 19,
+                    "min": 17
+                }
+            },
+            "sun": {
+                "sunset": "19:26:00",
+                "sunrise": "06:06:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol com algumas nuvens",
+                        "reduced": "Sol com algumas nuvens. N\u00e3o chove.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": "Mostly sunny.",
+                    "es": "Sol con algunas nubes. No llueve.",
+                    "pt": "Sol com algumas nuvens"
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "2n",
+                    "afternoon": "2",
+                    "day": "2",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 15.6
+            },
+            "rain": {
+                "precipitation": 0,
+                "probability": 0
+            },
+            "humidity": {
+                "min": 39,
+                "max": 81,
+                "morning": {
+                    "max": 81,
+                    "min": 56
+                },
+                "afternoon": {
+                    "max": 51,
+                    "min": 39
+                },
+                "night": {
+                    "max": 67,
+                    "min": 40
+                },
+                "dawn": {
+                    "max": 79,
+                    "min": 67
+                }
+            },
+            "thermal_sensation": {
+                "max": 32,
+                "min": 17
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0
+            },
+            "date": "2020-01-26",
+            "date_br": "26/01/2020",
+            "wind": {
+                "velocity_avg": 7,
+                "direction_degrees": 333,
+                "direction": "NW",
+                "dawn": {
+                    "direction_degrees": 284,
+                    "velocity_avg": 6,
+                    "direction": "SW",
+                    "gust_max": 17,
+                    "velocity_max": 10
+                },
+                "morning": {
+                    "direction_degrees": 4,
+                    "velocity_avg": 9,
+                    "direction": "N",
+                    "gust_max": 15,
+                    "velocity_max": 12
+                },
+                "velocity_min": 2,
+                "afternoon": {
+                    "direction_degrees": 336,
+                    "velocity_avg": 10,
+                    "direction": "NW",
+                    "gust_max": 15,
+                    "velocity_max": 12
+                },
+                "night": {
+                    "direction_degrees": 256,
+                    "velocity_avg": 3,
+                    "direction": "W",
+                    "gust_max": 5,
+                    "velocity_max": 4
+                },
+                "velocity_max": 12,
+                "gust_max": 17
+            }
+        },
+        {
+            "temperature": {
+                "min": 19,
+                "max": 30,
+                "morning": {
+                    "max": 25,
+                    "min": 19
+                },
+                "afternoon": {
+                    "max": 30,
+                    "min": 26
+                },
+                "night": {
+                    "max": 29,
+                    "min": 25
+                },
+                "dawn": {
+                    "max": 24,
+                    "min": 21
+                }
+            },
+            "sun": {
+                "sunset": "19:26:00",
+                "sunrise": "06:06:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol com algumas nuvens",
+                        "reduced": "Sol com algumas nuvens. N\u00e3o chove.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": "Mostly sunny.",
+                    "es": "Sol con algunas nubes. No llueve.",
+                    "pt": "Sol com algumas nuvens"
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "2n",
+                    "afternoon": "2",
+                    "day": "2",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 15.7
+            },
+            "rain": {
+                "precipitation": 0,
+                "probability": 0
+            },
+            "humidity": {
+                "min": 40,
+                "max": 79,
+                "morning": {
+                    "max": 79,
+                    "min": 53
+                },
+                "afternoon": {
+                    "max": 50,
+                    "min": 40
+                },
+                "night": {
+                    "max": 60,
+                    "min": 41
+                },
+                "dawn": {
+                    "max": 79,
+                    "min": 72
+                }
+            },
+            "thermal_sensation": {
+                "max": 30,
+                "min": 19
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0
+            },
+            "date": "2020-01-27",
+            "date_br": "27/01/2020",
+            "wind": {
+                "velocity_avg": 8,
+                "direction_degrees": 12,
+                "direction": "N",
+                "dawn": {
+                    "direction_degrees": 8,
+                    "velocity_avg": 8,
+                    "direction": "NW",
+                    "gust_max": 18,
+                    "velocity_max": 10
+                },
+                "morning": {
+                    "direction_degrees": 32,
+                    "velocity_avg": 10,
+                    "direction": "NNE",
+                    "gust_max": 18,
+                    "velocity_max": 12
+                },
+                "velocity_min": 1,
+                "afternoon": {
+                    "direction_degrees": 359,
+                    "velocity_avg": 12,
+                    "direction": "NNW",
+                    "gust_max": 17,
+                    "velocity_max": 13
+                },
+                "night": {
+                    "direction_degrees": 329,
+                    "velocity_avg": 2,
+                    "direction": "NNW",
+                    "gust_max": 6,
+                    "velocity_max": 6
+                },
+                "velocity_max": 13,
+                "gust_max": 18
+            }
+        },
+        {
+            "temperature": {
+                "min": 21,
+                "max": 29,
+                "morning": {
+                    "max": 25,
+                    "min": 21
+                },
+                "afternoon": {
+                    "max": 29,
+                    "min": 27
+                },
+                "night": {
+                    "max": 29,
+                    "min": 24
+                },
+                "dawn": {
+                    "max": 24,
+                    "min": 21
+                }
+            },
+            "sun": {
+                "sunset": "19:25:00",
+                "sunrise": "06:07:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Muitas nuvens, chuva e raios",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol, pancadas de chuva e trovoadas.",
+                        "reduced": "Sol e aumento de nuvens de manh\u00e3. Pancadas de chuva \u00e0 tarde e \u00e0 noite.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": null,
+                    "es": null,
+                    "pt": "Sol, pancadas de chuva e trovoadas."
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "4tn",
+                    "afternoon": "4t",
+                    "day": "4t",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 15.9
+            },
+            "rain": {
+                "precipitation": 5,
+                "probability": 80
+            },
+            "humidity": {
+                "min": 41,
+                "max": 78,
+                "morning": {
+                    "max": 78,
+                    "min": 54
+                },
+                "afternoon": {
+                    "max": 50,
+                    "min": 41
+                },
+                "night": {
+                    "max": 75,
+                    "min": 44
+                },
+                "dawn": {
+                    "max": 76,
+                    "min": 64
+                }
+            },
+            "thermal_sensation": {
+                "max": 32,
+                "min": 21
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0
+            },
+            "date": "2020-01-28",
+            "date_br": "28/01/2020",
+            "wind": {
+                "velocity_avg": 7,
+                "direction_degrees": 34,
+                "direction": "NNE",
+                "dawn": {
+                    "direction_degrees": 2,
+                    "velocity_avg": 4,
+                    "direction": "N",
+                    "gust_max": 8,
+                    "velocity_max": 6
+                },
+                "morning": {
+                    "direction_degrees": 49,
+                    "velocity_avg": 7,
+                    "direction": "NNE",
+                    "gust_max": 14,
+                    "velocity_max": 10
+                },
+                "velocity_min": 2,
+                "afternoon": {
+                    "direction_degrees": 28,
+                    "velocity_avg": 10,
+                    "direction": "N",
+                    "gust_max": 13,
+                    "velocity_max": 10
+                },
+                "night": {
+                    "direction_degrees": 41,
+                    "velocity_avg": 8,
+                    "direction": "NNE",
+                    "gust_max": 16,
+                    "velocity_max": 9
+                },
+                "velocity_max": 10,
+                "gust_max": 16
+            }
+        },
+        {
+            "temperature": {
+                "min": 22,
+                "max": 30,
+                "morning": {
+                    "max": 26,
+                    "min": 22
+                },
+                "afternoon": {
+                    "max": 30,
+                    "min": 27
+                },
+                "night": {
+                    "max": 30,
+                    "min": 25
+                },
+                "dawn": {
+                    "max": 24,
+                    "min": 22
+                }
+            },
+            "sun": {
+                "sunset": "19:25:00",
+                "sunrise": "06:08:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol, pancadas de chuva e trovoadas.",
+                        "reduced": "Sol e aumento de nuvens de manh\u00e3. Pancadas de chuva \u00e0 tarde. \u00c0 noite o tempo fica aberto.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": null,
+                    "es": null,
+                    "pt": "Sol, pancadas de chuva e trovoadas."
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "2n",
+                    "afternoon": "4t",
+                    "day": "4t",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 16.1
+            },
+            "rain": {
+                "precipitation": 3,
+                "probability": 71
+            },
+            "humidity": {
+                "min": 56,
+                "max": 87,
+                "morning": {
+                    "max": 87,
+                    "min": 57
+                },
+                "afternoon": {
+                    "max": 59,
+                    "min": 56
+                },
+                "night": {
+                    "max": 80,
+                    "min": 60
+                },
+                "dawn": {
+                    "max": 85,
+                    "min": 77
+                }
+            },
+            "thermal_sensation": {
+                "max": 34,
+                "min": 22
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 3.7,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 0.9
+            },
+            "date": "2020-01-29",
+            "date_br": "29/01/2020",
+            "wind": {
+                "velocity_avg": 18,
+                "direction_degrees": 22,
+                "direction": "N",
+                "dawn": {
+                    "direction_degrees": 34,
+                    "velocity_avg": 11,
+                    "direction": "NNE",
+                    "gust_max": 28,
+                    "velocity_max": 12
+                },
+                "morning": {
+                    "direction_degrees": 38,
+                    "velocity_avg": 19,
+                    "direction": "NNE",
+                    "gust_max": 39,
+                    "velocity_max": 28
+                },
+                "velocity_min": 9,
+                "afternoon": {
+                    "direction_degrees": 13,
+                    "velocity_avg": 26,
+                    "direction": "N",
+                    "gust_max": 39,
+                    "velocity_max": 28
+                },
+                "night": {
+                    "direction_degrees": 11,
+                    "velocity_avg": 16,
+                    "direction": "N",
+                    "gust_max": 26,
+                    "velocity_max": 21
+                },
+                "velocity_max": 28,
+                "gust_max": 39
+            }
+        },
+        {
+            "temperature": {
+                "min": 22,
+                "max": 29,
+                "morning": {
+                    "max": 25,
+                    "min": 22
+                },
+                "afternoon": {
+                    "max": 29,
+                    "min": 26
+                },
+                "night": {
+                    "max": 29,
+                    "min": 23
+                },
+                "dawn": {
+                    "max": 24,
+                    "min": 23
+                }
+            },
+            "sun": {
+                "sunset": "19:24:00",
+                "sunrise": "06:09:00"
+            },
+            "text_icon": {
+                "text": {
+                    "phrase": {
+                        "night": "Algumas nuvens e chuva",
+                        "dawn": "Algumas nuvens",
+                        "afternoon": "Sol e Chuva",
+                        "reduced": "Sol e aumento de nuvens de manh\u00e3. Pancadas de chuva \u00e0 tarde e \u00e0 noite.",
+                        "morning": "Sol com algumas nuvens"
+                    },
+                    "en": "Sun and rain.",
+                    "es": "Sol y aumento de nubes. Chubascos aislados en la tarde y en la noche.",
+                    "pt": "Sol e Chuva"
+                },
+                "icon": {
+                    "dawn": "2n",
+                    "night": "4n",
+                    "afternoon": "4",
+                    "day": "4",
+                    "morning": "2"
+                }
+            },
+            "uv": {
+                "max": 16
+            },
+            "rain": {
+                "precipitation": 18,
+                "probability": 86
+            },
+            "humidity": {
+                "min": 63,
+                "max": 95,
+                "morning": {
+                    "max": 95,
+                    "min": 68
+                },
+                "afternoon": {
+                    "max": 66,
+                    "min": 63
+                },
+                "night": {
+                    "max": 91,
+                    "min": 68
+                },
+                "dawn": {
+                    "max": 94,
+                    "min": 82
+                }
+            },
+            "thermal_sensation": {
+                "max": 33,
+                "min": 22
+            },
+            "cloud_coverage": {
+                "mid": 0,
+                "morning": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "high": 0,
+                "afternoon": {
+                    "high": 0,
+                    "low": 24,
+                    "mid": 0
+                },
+                "night": {
+                    "high": 0,
+                    "low": 9.2,
+                    "mid": 0
+                },
+                "dawn": {
+                    "high": 0,
+                    "low": 0,
+                    "mid": 0
+                },
+                "low": 8.3
+            },
+            "date": "2020-01-30",
+            "date_br": "30/01/2020",
+            "wind": {
+                "velocity_avg": 17,
+                "direction_degrees": 356,
+                "direction": "NNW",
+                "dawn": {
+                    "direction_degrees": 21,
+                    "velocity_avg": 17,
+                    "direction": "N",
+                    "gust_max": 41,
+                    "velocity_max": 21
+                },
+                "morning": {
+                    "direction_degrees": 7,
+                    "velocity_avg": 22,
+                    "direction": "N",
+                    "gust_max": 38,
+                    "velocity_max": 26
+                },
+                "velocity_min": 3,
+                "afternoon": {
+                    "direction_degrees": 336,
+                    "velocity_avg": 21,
+                    "direction": "NW",
+                    "gust_max": 35,
+                    "velocity_max": 26
+                },
+                "night": {
+                    "direction_degrees": 300,
+                    "velocity_avg": 8,
+                    "direction": "WSW",
+                    "gust_max": 19,
+                    "velocity_max": 14
+                },
+                "velocity_max": 26,
+                "gust_max": 41
+            }
+        }
+    ],
+    "id": 6713
+}
